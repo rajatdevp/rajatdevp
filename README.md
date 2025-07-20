@@ -1,11 +1,8 @@
 <!-- GitHub Profile README for Rajat Kumar -->
 
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I’m+Rajat+Kumar;Senior+Backend+Developer;Java+%7C+Spring+Boot+%7C+Kafka+Specialist;Cloud+Native+%7C+CI/CD+Enthusiast&center=true&width=500&height=50" />
-</p>
-
-<h1 align="center">🚀 Welcome to My GitHub World 🌎</h1>
+<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
+<h3 align="center">🚀 Backend Craftsman | 💡 System Designer | ☁️ Cloud Native</h3>
 
 <p align="center">
   <a href="mailto:rajatsrajesh@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -15,13 +12,13 @@
 
 ---
 
-### 🧠 Who am I?
+### 🧑‍💻 About Me
 
-- 👨‍💻 I am **Rajat Kumar**, a Senior Software Developer from Bangalore
-- 🔧 I work on **high-scale microservices**, **Kafka-based data streams**, and **cloud-native deployments**
-- 🧰 Tech Obsessed: Java, Spring Boot, Kafka, AWS, Docker, Postgres, GraphQL, Jenkins
-- 📈 I love optimizing systems and building reusable backend components
-- 🧙‍♂️ Team mentor, pipeline tuner, backend whisperer
+- 🔭 I’m currently building **telemetry-based campaign systems** and **client SDK onboarding flows** at **Affine**
+- 🌱 I’m deeply involved in backend frameworks like **Spring Boot 3**, **Kafka**, and **AWS scaling patterns**
+- 👯 I’ve designed **microservices**, **CI/CD pipelines**, and **real-time event-driven systems**
+- 🤝 I love mentoring devs, debugging legacy systems & building reusable architecture
+- 📫 Reach me at **[rajatsrajesh@gmail.com](mailto:rajatsrajesh@gmail.com)**
 
 ---
 
