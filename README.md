@@ -68,25 +68,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rajatdevp&theme=onedark&no-frame=true&margin-w=15&rank=SS,C,B" />
 </p>
 
----
-
-### 📌 Featured Projects
-
-<!-- Replace with your pinned repo links -->
-- 🔗 [Kafka-Driven Telemetry Microservice](https://github.com/rajatdevp/spring-kafka-client)
-- 🔗 [CI/CD Pipeline Configurations](https://github.com/rajatdevp/aws-event-listener)
-
----
-
-### ⏳ Weekly Highlights
-
-📅 **This Week @Affine**
-- Refactored DLS components in Engagement Stats Page  
-- Migrated tables to `DataTableV2`  
-- Improved responsiveness and routing in Create Engagement  
-- Worked on bar cards, icons, headers and monthly stats graphs
-
----
 
 ### 📅 Timeline
 
