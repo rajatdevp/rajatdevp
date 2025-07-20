@@ -1,85 +1,102 @@
-<!-- Rajat Kumar GitHub Profile README -->
+<!-- GitHub Profile README for Rajat Kumar -->
 
-<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
-<h3 align="center">🚀 Backend Craftsman | 💡 System Designer | ☁️ Cloud Native</h3>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I’m+Rajat+Kumar;Senior+Backend+Developer;Java+%7C+Spring+Boot+%7C+Kafka+Specialist;Cloud+Native+%7C+CI/CD+Enthusiast&center=true&width=500&height=50" />
+</p>
+
+<h1 align="center">🚀 Welcome to My GitHub World 🌎</h1>
 
 <p align="center">
-  <a href="mailto:rajatsrajesh@gmail.com"><img src="https://img.shields.io/badge/Email-rajatsrajesh@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rajat-kumar-a84561246/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/rajatdevp"><img src="https://img.shields.io/github/followers/rajatdevp?style=social"></a>
+  <a href="mailto:rajatsrajesh@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rajat-kumar-a84561246/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/rajatdevp"><img src="https://img.shields.io/github/followers/rajatdevp?label=Followers&style=for-the-badge"></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧠 Who am I?
 
-- 🔭 I’m currently building **telemetry-based campaign systems** and **client SDK onboarding flows** at **Affine**
-- 🌱 I’m deeply involved in backend frameworks like **Spring Boot 3**, **Kafka**, and **AWS scaling patterns**
-- 👯 I’ve designed **microservices**, **CI/CD pipelines**, and **real-time event-driven systems**
-- 🤝 I love mentoring devs, debugging legacy systems & building reusable architecture
-- 📫 Reach me at **[rajatsrajesh@gmail.com](mailto:rajatsrajesh@gmail.com)**
-
----
-
-### 💼 Experience Snapshot
-
-🧱 **Affine** – Sr. Software Dev (Apr 2024–Now)  
-📘 Designed & deployed Kafka-driven scheduling systems, dashboards, GraphQL APIs  
-📘 Jenkins + Spinnaker CI/CD; Datadog/Splunk monitoring for platform health
-
-🧱 **Exostar** – Sr. Software Dev (Jan–Apr 2024)  
-📘 Azure Functions for external system sync, GitHub Actions pipelines
-
-🧱 **PlugO (Energy Swipe)** – Sr. Software Dev (Jun 2020–Dec 2023)  
-📘 Built & scaled nationwide powerbank rental backend across cities and countries  
-📘 Payment gateway integrations, reporting services, AWS-native infra (EC2/S3/SQS)
+- 👨‍💻 I am **Rajat Kumar**, a Senior Software Developer from Bangalore
+- 🔧 I work on **high-scale microservices**, **Kafka-based data streams**, and **cloud-native deployments**
+- 🧰 Tech Obsessed: Java, Spring Boot, Kafka, AWS, Docker, Postgres, GraphQL, Jenkins
+- 📈 I love optimizing systems and building reusable backend components
+- 🧙‍♂️ Team mentor, pipeline tuner, backend whisperer
 
 ---
 
-### 🧰 Tech Toolbox
+### 🛠️ Tech Stack
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,aws,docker,kubernetes,git,postgres,junit,graphql,mysql,jenkins,linux,postman&perline=8" />
+</p>
 
-#### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
 
-#### Dev & Infra
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🧩 Skills at a Glance
+
+| Backend & APIs 🔙 | DevOps & Infra ⚙️ | Tools & Monitoring 🔭 |
+|------------------|-------------------|------------------------|
+| Java 11, Spring Boot, REST/GraphQL | AWS, Jenkins, Docker, K8s | Postman, JUnit, Mockito |
+| Kafka, JMS, SQS, Microservices | GitHub Actions, Spinnaker | Splunk, Datadog |
+| Hibernate, JPA, PostgreSQL, MySQL | CI/CD, Git, IntelliJ IDEA | Swagger, VS Code, MongoDB |
+
+---
+
+### 🧰 Currently Building
+
+- 📊 Engagement telemetry dashboards at **Affine**
+- 🔁 Kafka-driven messaging workflows
+- 📥 CI/CD pipelines with **Jenkins + GitHub Actions**
+- 💡 Exploring **Spring Cloud Gateway** and **Kubernetes-native scaling**
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajatdevp&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rajatdevp&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajatdevp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rajatdevp&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatdevp&theme=tokyonight" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
+### 🏆 GitHub Trophies
 
-<!-- Replace these with your real pinned repos -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=rajatdevp&repo=spring-kafka-client&theme=react)](https://github.com/rajatdevp/spring-kafka-client)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=rajatdevp&repo=aws-event-listener&theme=react)](https://github.com/rajatdevp/aws-event-listener)
-
----
-
-### 🎯 Fun Fact
-
-> 💬 I didn’t just learn to code. I mastered how systems talk to each other at scale.
-
-> 🧠 Favorite motto: _"Own the delivery, not just the code."_
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajatdevp&theme=onedark&no-frame=true&margin-w=15&rank=SS,C,B" />
+</p>
 
 ---
 
+### 📌 Featured Projects
+
+<!-- Replace with your pinned repo links -->
+- 🔗 [Kafka-Driven Telemetry Microservice](https://github.com/rajatdevp/spring-kafka-client)
+- 🔗 [CI/CD Pipeline Configurations](https://github.com/rajatdevp/aws-event-listener)
+
+---
+
+### ⏳ Weekly Highlights
+
+📅 **This Week @Affine**
+- Refactored DLS components in Engagement Stats Page  
+- Migrated tables to `DataTableV2`  
+- Improved responsiveness and routing in Create Engagement  
+- Worked on bar cards, icons, headers and monthly stats graphs
+
+---
+
+### 📅 Timeline
+
+```mermaid
+timeline
+    title Career Timeline
+    2019 : JSpiders Bangalore (Java, Spring)
+    2020 : Senior Developer @ PlugO
+    2024 : Sr. Dev @ Exostar
+    2024 : Sr. Dev @ Affine (Current)
