@@ -18,7 +18,7 @@
 - 🌱 I’m deeply involved in backend frameworks like **Spring Boot 3**, **Kafka**, and **AWS scaling patterns**
 - 👯 I’ve designed **microservices**, **CI/CD pipelines**, and **real-time event-driven systems**
 - 🤝 I love mentoring devs, debugging legacy systems & building reusable architecture
-- 📫 Reach me at **[rajatsrajesh@gmail.com](mailto:rajatsrajesh@gmail.com)**
+
 
 ---
 
